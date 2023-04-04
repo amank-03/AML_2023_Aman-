@@ -1,0 +1,12 @@
+creation_timestamp: 1680643114384
+current_stage: None
+description: null
+last_updated_timestamp: 1680643114384
+name: gaussian-nb-model
+run_id: 7adb5224eacc4193b4a607257034508b
+run_link: null
+source: file:///content/mlruns/0/7adb5224eacc4193b4a607257034508b/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

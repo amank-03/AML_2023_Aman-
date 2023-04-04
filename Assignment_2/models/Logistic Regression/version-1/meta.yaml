@@ -1,0 +1,12 @@
+creation_timestamp: 1680642449352
+current_stage: None
+description: null
+last_updated_timestamp: 1680642449352
+name: Logistic Regression
+run_id: c457d56a40ae4aefb8dfe5d368a0fcc1
+run_link: null
+source: file:///content/mlruns/0/c457d56a40ae4aefb8dfe5d368a0fcc1/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
